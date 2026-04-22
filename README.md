@@ -424,8 +424,5 @@ After running all cells, you will have:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
----
-
-> *Dataset attributed to King County, WA public property sales records (2014). All analysis is for educational and portfolio purposes only.*
